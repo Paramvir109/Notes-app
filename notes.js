@@ -65,7 +65,7 @@ var logNote = (note) => {
 }
 
 module.exports = {
-  addNote: addNote, //Or simply use addNode if names are taken same
+  addNote: addNote, //Or simply use addNote if names are taken same
   listNote,
   readNote,
   removeNote,

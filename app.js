@@ -37,7 +37,7 @@ if (command === "read") {
         console.log(`Note found`)
         notes.logNote(note);
     } else {
-        console.log('Note note found!')
+        console.log('Note not found!')
     }
 }
 else if (command === "remove") {
